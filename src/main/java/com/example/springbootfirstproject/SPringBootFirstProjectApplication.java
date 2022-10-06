@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class SPringBootFirstProjectApplication {
-//commento aggiunto per verificare la compatibilità e aggiornamento delle modifiche al progetto tra github e gitlab 1
     public static void main(String[] args) {
         SpringApplication.run(SPringBootFirstProjectApplication.class, args);
     }
